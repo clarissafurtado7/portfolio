@@ -31,13 +31,13 @@ p{
     top:100px;
 }
 /* Add a black background color to the top navigation */
-.nav {
+nav {
     background-color: #4e4146;
     overflow: hidden;
   }
   
   /* Style the links inside the navigation bar */
-  .nav a {
+  nav a {
     float: left;
     color: #8b9556ff;
     text-align: center;
@@ -47,13 +47,13 @@ p{
   }
   
   /* Change the color of links on hover */
-  .nav a:hover {
+  nav a:hover {
     background-color: #eecf73;
     color: #4e4146;
   }
   
   /* Add a color to the active/current link */
-  .nav a.active {
+  nav a.active {
     background-color: #8b9556ff;
     color: #4e4146;
   }
