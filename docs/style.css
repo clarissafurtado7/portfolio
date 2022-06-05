@@ -57,3 +57,6 @@ nav {
     background-color: #8b9556ff;
     color: #4e4146;
   }
+ul{
+    list-style-type: none;
+}
